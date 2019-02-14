@@ -23,8 +23,11 @@ a:hover,a:active{color:#229954;}
 	color: white;
 }
 .header{
+	position: absolute;
 	background: grey;
 	margin-top: 0;
 	margin-left: 0;
 	padding: 6px 14px;
+	top: 0;
+	left: 0;
 }
