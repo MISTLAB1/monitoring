@@ -11,8 +11,8 @@ a:hover,a:active{color:#229954;}
 	width: 50%;
 }
 .button{
+	color: #1B4F72;
 	transition-duration: 0.4s;
-	color: black;
 	background-color: #2ECC71;
 	text-decoration: none;
 	padding: 12px 28px;
@@ -34,6 +34,7 @@ a:hover,a:active{color:#229954;}
 body{
 	margin: 0;
 	font-family: "Times New Roman", times, serif;
+	color: #1B4F72;
 }
 .footer{
 	
@@ -47,4 +48,11 @@ body{
 	height: 40px;
 	float: left;
 	margin-left: 20px;
+}
+p{
+	color: #1B4F72;
+	font-size: 20px;
+}
+h2{
+	text-align: center;
 }
