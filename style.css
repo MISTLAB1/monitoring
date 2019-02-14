@@ -12,6 +12,7 @@ a:hover,a:active{color:#229954;}
 	color: black;
 	background-color: white;
 	text-decoration: none;
+	border-radius: 8px;
 }
 .button:hover{
 	background-color: #4CAF50;
