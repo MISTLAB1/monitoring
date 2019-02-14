@@ -18,6 +18,7 @@ a:hover,a:active{color:#229954;}
     text-decoration: none;
     display: inline-block;
     margin:0;
+    
 }
 .button:hover{
 	background-color: #239B56;
