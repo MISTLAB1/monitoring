@@ -24,4 +24,6 @@ a:hover,a:active{color:#229954;}
 }
 .header{
 	background: grey;
+	margin-top: 0;
+	margin-left: 0;
 }
