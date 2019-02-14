@@ -1,4 +1,7 @@
-h1{text-align: center}
+h1{
+	text-align: center
+	margin: 10px;
+}
 a:hover,a:active{color:#229954;}
 .center{
     display: block;
