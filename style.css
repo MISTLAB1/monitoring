@@ -11,6 +11,7 @@ a:hover,a:active{color:#229954;}
 	border: 2px solid #4CAF50;
 	color: black;
 	background-color: white;
+	text-decoration: none;
 }
 .button:hover{
 	background-color: #4CAF50;
