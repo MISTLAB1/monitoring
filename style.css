@@ -1,5 +1,5 @@
 h1{
-	text-align: center;
+	text-align: center !important;
 }
 a:hover,a:active{color:#229954;}
 .center{
