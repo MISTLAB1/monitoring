@@ -1,6 +1,5 @@
 h1{
 	text-align: center
-	margin: 10px;
 }
 a:hover,a:active{color:#229954;}
 .center{
@@ -27,7 +26,6 @@ a:hover,a:active{color:#229954;}
 }
 .header{
 	background: grey;
-	margin-bottom: 10;
 }
 body{
 	margin: 0;
