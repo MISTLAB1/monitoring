@@ -8,7 +8,7 @@ a:hover,a:active{color:#229954;}
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+	width: 50%;
 }
 .button{
 	transition-duration: 0.4s;
@@ -34,4 +34,16 @@ a:hover,a:active{color:#229954;}
 body{
 	margin: 0;
 	font-family: "Times New Roman", times, serif;
+}
+.footer{
+	
+}
+
+.inline1{
+	width: 20%;
+	float: right;
+}
+.inline2{
+	height: 40px;
+	float: left;
 }
