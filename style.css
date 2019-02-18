@@ -59,6 +59,11 @@ h2{
 
 @media (max-width: 991px) {
 	.button{
-		padding: 20px 28px;
+		padding: 18px 28px;
+		font-size: 22px;
+	}
+	.inline2{
+		height: 50px;
+		margin-left: 30px;
 	}
 }
