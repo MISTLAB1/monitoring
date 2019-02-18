@@ -56,3 +56,9 @@ p{
 h2{
 	text-align: center;
 }
+
+@media (max-width: 991px) {
+	.button{
+		padding: 20px 28px;
+	}
+}
